@@ -1,2 +1,3 @@
-# pythonlambdas
-Collection of random lambdas
+# Python Lambdas
+
+This repo is a collection of random lambda functions I've written in python for some reason or another.
